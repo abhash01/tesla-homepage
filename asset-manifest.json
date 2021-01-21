@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/tesla-homepage/static/css/main.6a6ca939.chunk.css",
+    "main.js": "/tesla-homepage/static/js/main.dd72c8e1.chunk.js",
+    "main.js.map": "/tesla-homepage/static/js/main.dd72c8e1.chunk.js.map",
+    "runtime-main.js": "/tesla-homepage/static/js/runtime-main.f947743f.js",
+    "runtime-main.js.map": "/tesla-homepage/static/js/runtime-main.f947743f.js.map",
+    "static/js/2.11ce90f5.chunk.js": "/tesla-homepage/static/js/2.11ce90f5.chunk.js",
+    "static/js/2.11ce90f5.chunk.js.map": "/tesla-homepage/static/js/2.11ce90f5.chunk.js.map",
+    "static/js/3.d9285d3d.chunk.js": "/tesla-homepage/static/js/3.d9285d3d.chunk.js",
+    "static/js/3.d9285d3d.chunk.js.map": "/tesla-homepage/static/js/3.d9285d3d.chunk.js.map",
+    "index.html": "/tesla-homepage/index.html",
+    "static/css/main.6a6ca939.chunk.css.map": "/tesla-homepage/static/css/main.6a6ca939.chunk.css.map",
+    "static/js/2.11ce90f5.chunk.js.LICENSE.txt": "/tesla-homepage/static/js/2.11ce90f5.chunk.js.LICENSE.txt",
+    "static/media/Desktop-Accessories.027ada94.jpg": "/tesla-homepage/static/media/Desktop-Accessories.027ada94.jpg",
+    "static/media/Desktop-Model3.30651f79.jpeg": "/tesla-homepage/static/media/Desktop-Model3.30651f79.jpeg",
+    "static/media/Desktop-ModelS.e3d22a07.jpeg": "/tesla-homepage/static/media/Desktop-ModelS.e3d22a07.jpeg",
+    "static/media/Desktop-ModelX.83417303.jpeg": "/tesla-homepage/static/media/Desktop-ModelX.83417303.jpeg",
+    "static/media/Desktop-ModelY.30acb76a.jpeg": "/tesla-homepage/static/media/Desktop-ModelY.30acb76a.jpeg",
+    "static/media/Desktop-SolarPanels.d7d441d7.jpeg": "/tesla-homepage/static/media/Desktop-SolarPanels.d7d441d7.jpeg",
+    "static/media/Desktop-SolarRoof.9eb2e602.jpeg": "/tesla-homepage/static/media/Desktop-SolarRoof.9eb2e602.jpeg",
+    "static/media/index.css": "/tesla-homepage/static/media/iCiel-Medium.b23bb62d.ttf",
+    "static/media/teslaLogoSmall.a7b59bc6.svg": "/tesla-homepage/static/media/teslaLogoSmall.a7b59bc6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f947743f.js",
+    "static/js/2.11ce90f5.chunk.js",
+    "static/css/main.6a6ca939.chunk.css",
+    "static/js/main.dd72c8e1.chunk.js"
+  ]
+}
